@@ -1,0 +1,9 @@
+/* Global styles can go here if needed */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
